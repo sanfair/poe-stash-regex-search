@@ -137,6 +137,11 @@ To do this, you have to define that you want the number after the text `Quality:
   "rare"|"item level: ([6][0-9]|[7][0-4])"
   ```
   
+- Regal Recipe
+  ```
+  "rare"|"item level: (100|[8-9][0-9]|[7][5-9])"
+  ```
+  
 ## Sources
 I didn't come up with all of them. Some sources:
 
